@@ -1,5 +1,7 @@
 # waterbender
 
+![usage](media/logo.png)
+
 very basic exploration in crossplane compositions for service bundles
 
 ## example
