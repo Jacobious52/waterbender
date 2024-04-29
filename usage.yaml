@@ -1,0 +1,8 @@
+apiVersion: paas.company.io/v1alpha1
+kind: AppClaim
+metadata:
+  name: my-app
+spec:
+  serviceId: my-app
+  replicas: 3
+  image: nginx:latest
